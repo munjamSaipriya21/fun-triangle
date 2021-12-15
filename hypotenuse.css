@@ -1,8 +1,6 @@
 body {
     text-align: center;
-    /* margin: auto; */
-    /* max-width: 60%; */
-    background-color: rgb(160, 101, 175);
+    background-color: rgb(90, 136, 138);
 
  } 
  h1{
@@ -60,7 +58,7 @@ button{
 }
 
 .navigation {
-    background-color:blue;
+    background-color:#9900ff;
     color: white;
     padding: 1rem;
     border-bottom-left-radius: 1rem;

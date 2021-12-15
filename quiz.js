@@ -14,10 +14,11 @@ function calculatescore() {
 
         }
         index=index+1;
-      
+       
     }
 
-    outputE1.innerText = "your score is"+ score;
+    outputE1.innerText = "your score is ="+ score;
+    outputE1.style.textAlign="center";
 
 }
 

@@ -1,47 +1,46 @@
 body{
-    text-align: center;
-    background-color:rgb(219, 163, 219);
-  }
-  nav{
-    text-align: center;
-    color: rgb(92, 146, 207);
+
+  background-color:rgb(219, 163, 219);
+}
+nav{
+  text-align: center;
+  color: rgb(211, 184, 127);
+ 
+}
+ul li{
+  display: inline;
+  padding: 1rem;
+  background-color: rgb(124, 184, 144);
+}
+
+h1{
+   text-align:center;
+   margin: 10px;;
+}
+
+
+.question-container p{
    
-  }
-  ul li{
-    display: inline;
-    padding: 1rem;
-    background-color: rgb(45, 216, 216);
-  }
-  
-  h1{
-     text-align:center;
-     margin: 10px;;
-  }
-  label{
-    text-align: center;
-    margin: 1rem;
-  
-  }
-  
-  input{
-    width: 10%;
-    height: 20px;;
-    margin: auto;
-  }
-  .container{
-     max-width: 70%;
-     margin: auto;
-     text-align: center;
-  }
-  button{
-    padding: 1rem;
-    margin: 2rem;
-    background-color: cornflowerblue;
-  }
-  .navigation {
-    background-color:rgb(80, 80, 163);
-    color: white;
-    padding: 1rem;
-    border-bottom-left-radius: 1rem;
-  }
-  
+   margin-left:500px ;
+   font-size: 20px;
+}
+.labeles{
+
+  margin-left: 450px;
+  font-size: 20px;
+}
+.labeles label{
+  margin-left: 80px;
+}
+.submit{
+  padding: 1rem;
+  margin: 2rem;
+  background-color: cornflowerblue;
+  margin-left: 700px;
+}
+.navigation {
+  background-color:rgb(80, 80, 163);
+  color: white;
+  padding: 1rem;
+  border-bottom-left-radius: 1rem;
+}
